@@ -2,9 +2,9 @@
 
 | 유형          | 제목                                                                    | 풀이 |
 | ------------- | ----------------------------------------------------------------------- | :--: |
-| DataStructure | [백준 1935 : 후위 표기식](https://www.acmicpc.net/problem/1918)         |
-| DataStructure | [백준 1935 : 후위 표기식2](https://www.acmicpc.net/problem/1935)        |
-| DataStructure | [백준 1966 : 프린터 큐](https://www.acmicpc.net/problem/1966)           |
+| DataStructure | [백준 1935 : 후위 표기식](https://www.acmicpc.net/problem/1918)         | o
+| DataStructure | [백준 1935 : 후위 표기식2](https://www.acmicpc.net/problem/1935)        | o
+| DataStructure | [백준 1966 : 프린터 큐](https://www.acmicpc.net/problem/1966)           | 
 | DataStructure | [백준 1874 : 스택 수열](https://www.acmicpc.net/problem/1874)           |
 | DataStructure | [백준 21939 : 문제 추천 시스템1](https://www.acmicpc.net/problem/21939) |
 | DataStructure | [백준 14425 : 문자열 집합](https://www.acmicpc.net/problem/14425)       |
