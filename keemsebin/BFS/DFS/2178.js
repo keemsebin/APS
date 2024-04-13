@@ -13,18 +13,14 @@ const ds = [
   [0, 1],
   [0, -1],
 ];
-// 1,0,1,1,1,1
-// 1,0,1,0,1,0
-// 1,0,1,0,1,1
-// 1,1,1,0,1,1
 function bfs(x, y) {
   const queue = [];
-  queue.push([x, y]); //[[0,0]]
-  isVisit[x][y] = 1; //[1]
+  queue.push([x, y]);
+  isVisit[x][y] = 1;
   while (queue.length) {
-    const [x, y] = queue.shift(); // 0 0
+    const [x, y] = queue.shift();
     for (let i = 0; i < ds.length; i++) {
-      const [nx, ny] = [x + ds[i][0], y + ds[i][1]]; // 1, 0
+      const [nx, ny] = [x + ds[i][0], y + ds[i][1]];
       if (
         0 <= nx &&
         nx < N &&
