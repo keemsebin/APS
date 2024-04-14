@@ -26,10 +26,7 @@ const dir = [
 
 function bfs() {
   const queue = [[0, 0, 0]]; // x, y, k
-  const visited = Array.from({ length: H }, () =>
-    Array.from({ length: W }, () => Array(K + 1).fill(false))
-  ); // [x][y][k+1]의 배열
-  visited[0][0][0] = true; // x,y,k
+  isVisit[0][0][0] = true; // x,y,k
   let move = 0;
   while (queue.length) {
     const length = queue.length;
@@ -48,11 +45,11 @@ function bfs() {
           ny >= 0 &&
           nx < W &&
           ny < H &&
-          !visited[ny][nx][nk] &&
+          !isVisit[ny][nx][nk] &&
           map[ny][nx] == 0
         ) {
           if (nk <= K) {
-            visited[ny][nx][nk] = true;
+            isVisit[ny][nx][nk] = true;
             queue.push([nx, ny, nk]);
           }
         }
