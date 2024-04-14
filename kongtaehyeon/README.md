@@ -8,5 +8,5 @@
 | DataStructure | [백준 1874 : 스택 수열](https://www.acmicpc.net/problem/1874)           |  o   |
 | DataStructure | [백준 21939 : 문제 추천 시스템1](https://www.acmicpc.net/problem/21939) |  o   |
 | DataStructure | [백준 14425 : 문자열 집합](https://www.acmicpc.net/problem/14425)       |  o   |
-| DataStructure | [백준 11279 : 최대 힙](https://www.acmicpc.net/problem/11279)           |
-| DataStructure | [백준 2075 : N번째 큰 수](https://www.acmicpc.net/problem/2075)         |
+| DataStructure | [백준 11279 : 최대 힙](https://www.acmicpc.net/problem/11279)           |  o   |
+| DataStructure | [백준 2075 : N번째 큰 수](https://www.acmicpc.net/problem/2075)         |  o   |
