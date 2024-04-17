@@ -2,14 +2,14 @@
 
 | 유형    | 제목                                                                   | 풀이 |
 | ------- | ---------------------------------------------------------------------- | :--: |
-| Hashing | [백준 1620 : 나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620)          |
-| Hashing | [백준 2002 : 추월](https://www.acmicpc.net/problem/2002)           |
-| Hashing | [백준 2412 : 암벽 등반](https://www.acmicpc.net/problem/2412) |
-| Hashing | [백준 2866 : 문자열 잘라내기](https://www.acmicpc.net/problem/2866)      |
-| Hashing | [백준 9015 : 정사각형](https://www.acmicpc.net/problem/9015)        |
-| Hashing | [백준 10816 : 숫자 카드 2](https://www.acmicpc.net/problem/10816)           |
-| Hashing | [백준 19583 : 싸이버개강총회](https://www.acmicpc.net/problem/19583)     |
-| Hashing | [백준 25332 : 수들의 합 8](https://www.acmicpc.net/problem/25332)        |
+| Implementation | [백준 21611 : 마법사 상어와 블리자드](https://www.acmicpc.net/problem/21611)          |
+| Implementation | [백준 20546 : 🐜 기적의 매매법 🐜](https://www.acmicpc.net/problem/20546)           |
+| Implementation | [백준 15787 : 기차가 어둠을 헤치고 은하수를](https://www.acmicpc.net/problem/15787) |
+| Implementation | [백준 20164 : 홀수 홀릭 호석](https://www.acmicpc.net/problem/20164)      |
+| Implementation | [백준 22856 : 트리 순회](https://www.acmicpc.net/problem/22856)        |
+| Implementation | [백준 22859 : HTML 파싱](https://www.acmicpc.net/problem/22859)           |
+| Implementation | [백준 17413 : 단어 뒤집기 2](https://www.acmicpc.net/problem/17413)     |
+| Implementation | [백준 16926 : 배열 돌리기 1](https://www.acmicpc.net/problem/16926)        |
 
 
 #### Week 02 - 알고리즘1 (24.04.08)
@@ -30,7 +30,7 @@
 
 | 유형          | 제목                                                                    | 풀이 |
 | ------------- | ----------------------------------------------------------------------- | :--: |
-| DataStructure | [백준 1918 : 후위 표기식](https://www.acmicpc.net/problem/1918)         |
+| DataStructure | [백준 1918 : 후위 표기식](https://www.acmicpc.net/problem/1918)         | [👩‍💻]() 
 | DataStructure | [백준 1935 : 후위 표기식2](https://www.acmicpc.net/problem/1935)        |
 | DataStructure | [백준 1966 : 프린터 큐](https://www.acmicpc.net/problem/1966)           |
 | DataStructure | [백준 1874 : 스택 수열](https://www.acmicpc.net/problem/1874)           |
