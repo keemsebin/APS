@@ -1,7 +1,7 @@
 import sys
 
-cash = int(sys.stdin.readline())
 # 남은 현금, 보유 주식 수
+cash = int(sys.stdin.readline())
 bnp = [cash, 0]
 timing = [cash, 0]
 prices = list(map(int, sys.stdin.readline().split()))
