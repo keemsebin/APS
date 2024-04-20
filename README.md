@@ -3,11 +3,11 @@
 <table>
   <tr>
     <td>진행 기간</td>
-    <td>2024년 3월 25일 ~ </td>
+    <td>2024년 4월 01일 ~ </td>
   </tr>
   <tr>
     <td>플랫폼</td>
-    <td>백준,프로그래머스</td>
+    <td>백준, 프로그래머스</td>
   </tr>
 
 </table>
@@ -21,7 +21,6 @@
     <td align="center"><a href="https://github.com/RumosZin"><img src="https://avatars.githubusercontent.com/RumosZin" width="130px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/naarang"><img src="https://avatars.githubusercontent.com/naarang" width="130px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/Kong-TaeHyeon"><img src="https://avatars.githubusercontent.com/Kong-TaeHyeon" width="130px;" alt=""></a></td>
-    <td align="center"><a href="https://github.com/JunyuPark1112"><img src="https://avatars.githubusercontent.com/JunyuPark1112" width="130px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/comgongdaeng"><img src="https://avatars.githubusercontent.com/comgongdaeng" width="130px;" alt=""></a></td>
   </tr>
   <tr>
@@ -29,8 +28,14 @@
     <td align="center"><a href="https://github.com/RumosZin"><b>RumosZin</b></a></td>
     <td align="center"><a href="https://github.com/naarang"><b>naarang</b></a></td>
     <td align="center"><a href="https://github.com/Kong-TaeHyeon"><b>Kong-TaeHyeon</b></a></td>
-    <td align="center"><a href="https://github.com/JunyuPark1112"><b>JunyuPark1112</b></a></td>
     <td align="center"><a href="https://github.com/comgongdaeng"><b>comgongdaeng</b></a></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"></td>
+    <td align="center"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"></td>
+    <td align="center"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"></td>
+    <td align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></td>
   </tr>
 </table>
 
@@ -84,8 +89,6 @@
 
 ### ✨ 이모지 및 태그
 
-- 이모지는 선택에 따라 활용한다.
-
 | 이모지 | 태그     | 설명                                  |
 | :----- | :------- | :------------------------------------ |
 | ✨     | feat     | 새로운 기능 추가                      |
@@ -101,7 +104,7 @@
 ## ⚠️ PR 규칙
 
 ```
-[날짜] {유형} {주차 수}
+[유형] {주차 수}
 ```
 
 - 💡 예시: `[DataStructure] 1주차 `
@@ -109,5 +112,5 @@
 ---
 
 <br/>
-문제는 다음 레파지토리를 참고하였습니다. 
+문제는 다음 레퍼지토리를 참고하였습니다. 
 https://github.com/tony9402/baekjoon
