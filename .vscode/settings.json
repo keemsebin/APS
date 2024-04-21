@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "vector": "cpp",
+        "queue": "cpp",
+        "xutility": "cpp",
+        "algorithm": "cpp",
+        "iterator": "cpp",
+        "xmemory": "cpp",
+        "utility": "cpp",
+        "deque": "cpp",
+        "span": "cpp",
+        "xstring": "cpp"
+    }
+}
