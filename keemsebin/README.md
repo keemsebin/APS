@@ -23,3 +23,16 @@
 | BFS/DFS | [백준 2667 : 단지번호붙이기](https://www.acmicpc.net/problem/2667)     | [🚀](https://github.com/APS-Alogrithm-Problem-Solving/APS/blob/main/keemsebin/BFS_DFS/BOJ_2267.js)  |
 | BFS/DFS | [백준 1167 : 트리의 지름](https://www.acmicpc.net/problem/1167)        | [🚀](https://github.com/APS-Alogrithm-Problem-Solving/APS/blob/main/keemsebin/BFS_DFS/BOJ_1167.js)  |
 | BFS/DFS | [백준 13460 : 구슬 탈출 2](https://www.acmicpc.net/problem/13460)      |
+
+#### Week 03 - 구현 (24.04.15)
+
+| 유형           | 제목                                                                                | 풀이 |
+| -------------- | ----------------------------------------------------------------------------------- | :--: |
+| Implementation | [백준 21611 : 마법사 상어와 블리자드](https://www.acmicpc.net/problem/21611)        |
+| Implementation | [백준 20546 : 🐜 기적의 매매법 🐜](https://www.acmicpc.net/problem/20546)           |
+| Implementation | [백준 15787 : 기차가 어둠을 헤치고 은하수를](https://www.acmicpc.net/problem/15787) |
+| Implementation | [백준 20164 : 홀수 홀릭 호석](https://www.acmicpc.net/problem/20164)                |
+| Implementation | [백준 22856 : 트리 순회](https://www.acmicpc.net/problem/22856)                     |
+| Implementation | [백준 22859 : HTML 파싱](https://www.acmicpc.net/problem/22859)                     |
+| Implementation | [백준 17413 : 단어 뒤집기 2](https://www.acmicpc.net/problem/17413)                 |
+| Implementation | [백준 16926 : 배열 돌리기 1](https://www.acmicpc.net/problem/16926)                 |
