@@ -3,6 +3,7 @@ let input = fs
   .readFileSync("naarang/DataStructure/input.txt")
   .toString()
   .trim();
+let answer = [];
 
 // <div>태그 분리
 const divTags = input.match(/<div(.*?)>(.*?)<\/div>/g);
@@ -10,17 +11,20 @@ for (let div of divTags) {
   const pTags = div.split(/<p(.*?)>(.*?)<\/p>/g);
   // title
   const title = pTags[0].split(/title="(.*?)"/g);
-  console.log(`title : ${title[1]}`);
+  //console.log(`title : ${title[1]}`);
+
+  pTags.pop(); // 마지막에 </div> 있으므로 제거
+  let result = []; // 한 문단 담기
   // p
   for (let p of pTags) {
-    let tag = false;
-    let sentence = "";
-    let prev = "";
     p = p.trim(); // 양쪽 공백 제거
     if (p.length === 0) {
       continue;
     }
 
+    let tag = false;
+    let sentence = "";
+    let prev = "";
     for (let i = 0; i < p.length; i++) {
       if (p[i] === "<" && !tag) {
         tag = true;
@@ -37,45 +41,15 @@ for (let div of divTags) {
     }
 
     if (sentence.trim() !== "") {
-      console.log(sentence);
+      result.push(sentence);
+      // console.log(sentence);
     }
   }
+  answer.push([`title : ${title[1]}`, result.join("\n")]);
 }
 
-/*
-input.shift(); // <main> 태그 제거
-console.log(input);
+console.log(answer.map((v) => v.join("\n")).join("\n"));
 
-for (let line of input) {
-  let paragraph = line.split("<p>");
-  // 제목 출력
-  let title = paragraph.shift().split('"');
-  console.log("title : " + title[1]);
-
-  for (let p of paragraph) {
-    let tag = false;
-    let sentence = "";
-    for (let i = 0; i < p.length; i++) {
-      // 태그이면?
-      if (p[i] === "<" && !tag) {
-        if (p[i + 1] === "/" && p[i + 2] === "p" && p[i + 3] === ">") {
-          // 문장 시작과 끝 공백 제거 + 연속 공백 제거
-          sentence = sentence.replace(/ +(?= )/g, "").trim();
-          console.log("+", sentence, "+");
-          break;
-        } else {
-          tag = true;
-          continue;
-        }
-      } else if (tag && p[i] === ">") {
-        tag = false;
-      } else if (!tag) {
-        sentence += p[i];
-      }
-    }
-  }
-}
-
-*/
 // 이 문제를 정규식을 통해 해결하는 것으로..? -> 공부 필요할듯...
+// 출력이 틀렸다..? 어디서?ㅠㅠㅠ 그냥 바로바로 출력하는 것에서 배열에 담아서 출력하는 것으로 바꾸었는데 어디서 오류가?ㅠㅠ
 // 정규식 정리하기
