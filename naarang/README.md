@@ -1,3 +1,16 @@
+#### Week 04 - 다이나믹 프로그래밍 (24.04.22)
+
+| 유형               | 제목                                                               | 풀이 |
+| ------------------ | ------------------------------------------------------------------ | :--: |
+| DynamicProgramming | [백준 9465 : 스티커](https://www.acmicpc.net/problem/9465)         |
+| DynamicProgramming | [백준 2156 : 포도주 시식](https://www.acmicpc.net/problem/2156)    |
+| DynamicProgramming | [백준 10844 : 쉬운 계단 수](https://www.acmicpc.net/problem/10844) |
+| DynamicProgramming | [백준 1890 : 점프](https://www.acmicpc.net/problem/1890)           |
+| DynamicProgramming | [백준 1520 : 내리막길](https://www.acmicpc.net/problem/1520)       |
+| DynamicProgramming | [백준 15486 : 퇴사 2](https://www.acmicpc.net/problem/15486)       |
+| DynamicProgramming | [백준 1106 : 호텔](https://www.acmicpc.net/problem/1106)           |
+| DynamicProgramming | [백준 2294 : 동전 2](https://www.acmicpc.net/problem/2294)         |
+
 #### Week 03 - 해싱 (24.04.15)
 
 | 유형           | 제목                                                                                | 풀이 |
