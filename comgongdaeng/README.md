@@ -1,14 +1,27 @@
+#### Week 04 - 다이나믹 프로그래밍 (24.04.22)
+
+| 유형               | 제목                                                               | 풀이 |
+| ------------------ | ------------------------------------------------------------------ | :--: |
+| DynamicProgramming | [백준 9465 : 스티커](https://www.acmicpc.net/problem/9465)         |
+| DynamicProgramming | [백준 2156 : 포도주 시식](https://www.acmicpc.net/problem/2156)    |
+| DynamicProgramming | [백준 10844 : 쉬운 계단 수](https://www.acmicpc.net/problem/10844) |
+| DynamicProgramming | [백준 1890 : 점프](https://www.acmicpc.net/problem/1890)           |
+| DynamicProgramming | [백준 1520 : 내리막길](https://www.acmicpc.net/problem/1520)       |
+| DynamicProgramming | [백준 15486 : 퇴사 2](https://www.acmicpc.net/problem/15486)       |
+| DynamicProgramming | [백준 1106 : 호텔](https://www.acmicpc.net/problem/1106)           |
+| DynamicProgramming | [백준 2294 : 동전 2](https://www.acmicpc.net/problem/2294)         |
+
 #### Week 03 - 구현 (24.04.15)
 
 | 유형    | 제목                                                                   | 풀이 |
 | ------- | ---------------------------------------------------------------------- | :--: |
-| Implementation | [백준 21611 : 마법사 상어와 블리자드](https://www.acmicpc.net/problem/21611)          |
-| Implementation | [백준 20546 : 🐜 기적의 매매법 🐜](https://www.acmicpc.net/problem/20546)           |
-| Implementation | [백준 15787 : 기차가 어둠을 헤치고 은하수를](https://www.acmicpc.net/problem/15787) |
-| Implementation | [백준 20164 : 홀수 홀릭 호석](https://www.acmicpc.net/problem/20164)      |
-| Implementation | [백준 22856 : 트리 순회](https://www.acmicpc.net/problem/22856)        |
-| Implementation | [백준 22859 : HTML 파싱](https://www.acmicpc.net/problem/22859)           |
-| Implementation | [백준 17413 : 단어 뒤집기 2](https://www.acmicpc.net/problem/17413)     |
+| Implementation | [백준 21611 : 마법사 상어와 블리자드](https://www.acmicpc.net/problem/21611)          | 
+| Implementation | [백준 20546 : 🐜 기적의 매매법 🐜](https://www.acmicpc.net/problem/20546)           | [👩‍💻](https://github.com/APS-Alogrithm-Problem-Solving/APS/blob/main/comgongdaeng/Implementation/BOJ_20546.py)
+| Implementation | [백준 15787 : 기차가 어둠을 헤치고 은하수를](https://www.acmicpc.net/problem/15787) | [👩‍💻](https://github.com/APS-Alogrithm-Problem-Solving/APS/blob/main/comgongdaeng/Implementation/BOJ_15787.py)
+| Implementation | [백준 20164 : 홀수 홀릭 호석](https://www.acmicpc.net/problem/20164)      | [👩‍💻](https://github.com/APS-Alogrithm-Problem-Solving/APS/blob/main/comgongdaeng/Implementation/BOJ_20164.py)
+| Implementation | [백준 22856 : 트리 순회](https://www.acmicpc.net/problem/22856)        | [👩‍💻](https://github.com/APS-Alogrithm-Problem-Solving/APS/blob/main/comgongdaeng/Implementation/BOJ_22856.py)
+| Implementation | [백준 22859 : HTML 파싱](https://www.acmicpc.net/problem/22859)           | [👩‍💻](https://github.com/APS-Alogrithm-Problem-Solving/APS/blob/main/comgongdaeng/Implementation/BOJ_22859.py)
+| Implementation | [백준 17413 : 단어 뒤집기 2](https://www.acmicpc.net/problem/17413)     | [👩‍💻](https://github.com/APS-Alogrithm-Problem-Solving/APS/blob/main/comgongdaeng/Implementation/BOJ_17413.py)
 | Implementation | [백준 16926 : 배열 돌리기 1](https://www.acmicpc.net/problem/16926)        |
 
 
