@@ -1,29 +1,32 @@
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
-import java.util.LinkedList;
-import java.util.List;
-import java.util.ArrayList;
-import java.util.Queue;
+import java.util.*;
 
 public class BOJ2667 {
 
     static int[][] map;
     static boolean[][] visited;
-
-    static int count = 0;
     static int line;
     static int[] dx = {0,0,-1,1};
     static int[] dy = {1,-1,0,0};
+
+    static List<Integer> result;
+    static int count;
 
 
 
     public static void main(String[] args) throws Exception {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
+        result = new LinkedList<>();
         line = Integer.parseInt(br.readLine());
 
         map = new int[line][line];
         visited = new boolean[line][line];
+        count = 1;
+
+
+
 
         for (int i = 0; i < line; i++) {
             String row = br.readLine();
@@ -33,9 +36,38 @@ public class BOJ2667 {
             }
         }
 
-        visited[0][0] = true;
-        go(0, 0);
+        for (int x = 0; x < line; x++) {
+            for (int y = 0; y < line; y++) {
+                if (map[x][y] == 1 && !visited[x][y]) {
+                    dfs(x,y);
+                    result.add(count);
+                    count = 1;
+                }
+            }
+        }
 
+
+        Collections.sort(result);
+        System.out.println(result.size());
+        for (Integer integer : result) {
+            System.out.println(integer);
+        }
+
+
+    }
+
+    public static void dfs(int x, int y) {
+        visited[x][y] = true;
+
+        for (int i = 0; i < 4; i++) {
+            int nextX = dx[i] + x;
+            int nextY = dy[i] + y;
+
+            if (nextX >= 0 && nextY >= 0 && nextX < line && nextY < line && !visited[nextX][nextY] && map[nextX][nextY] == 1) {
+                count++;
+                dfs(nextX, nextY);
+            }
+        }
     }
 
     public static void go(int startX, int startY) {
