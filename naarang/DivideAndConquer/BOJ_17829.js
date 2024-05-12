@@ -5,7 +5,7 @@ let input = fs
   .trim()
   .split("\n");
 
-let N = Number(input.shift(" "));
+let N = Number(input.shift());
 let matrix = input.map((item) => item.split(" ").map(Number));
 let answer = [];
 
