@@ -1,8 +1,15 @@
-//const input = require("fs").readFileSync("/dev/stdin").toString;
-const input = ["27"];
-const N = Number(input[0]);
+const input = require("fs").readFileSync("/dev/stdin").toString();
+
+const N = Number(input);
 let arr = [];
 
+for (let i = 0; i < N; i++) {
+  for (let j = 0; j < N; j++) {
+    star(i, j, N);
+  }
+
+  arr.push("\n");
+}
 function star(x, y, n) {
   if (x % 3 == 1 && y % 3 == 1) {
     arr.push(" ");
@@ -19,12 +26,6 @@ function star(x, y, n) {
   }
 }
 
-for (let i = 0; i < N; i++) {
-  for (let j = 0; j < N; j++) {
-    star(i, j, N);
-  }
-  arr.push("\n");
-}
 console.log(arr.join(""));
 // (1,1) (4,1) (7,1) 에서 공백
 // (1,4) (4,4) (7,4) 에서 공백
