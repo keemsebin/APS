@@ -36,3 +36,42 @@
 | Implementation | [백준 22859 : HTML 파싱](https://www.acmicpc.net/problem/22859)                     | [🚀](https://github.com/APS-Alogrithm-Problem-Solving/APS/blob/main/keemsebin/Implementation/BOJ_22859.js) |
 | Implementation | [백준 17413 : 단어 뒤집기 2](https://www.acmicpc.net/problem/17413)                 | [🚀](https://github.com/APS-Alogrithm-Problem-Solving/APS/blob/main/keemsebin/Implementation/BOJ_17413.js) |
 | Implementation | [백준 16926 : 배열 돌리기 1](https://www.acmicpc.net/problem/16926)                 | [🚀](https://github.com/APS-Alogrithm-Problem-Solving/APS/blob/main/keemsebin/Implementation/BOJ_16926.js) |
+
+#### Week 04 - 다이나믹 프로그래밍 (24.04.22)
+
+| 유형               | 제목                                                               |                                                      풀이                                                      |
+| ------------------ | ------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------: |
+| DynamicProgramming | [백준 9465 : 스티커](https://www.acmicpc.net/problem/9465)         | [🚀](https://github.com/APS-Alogrithm-Problem-Solving/APS/blob/main/keemsebin/DynamicProgramming/BOJ_9456.js)  |
+| DynamicProgramming | [백준 2156 : 포도주 시식](https://www.acmicpc.net/problem/2156)    | [🚀](https://github.com/APS-Alogrithm-Problem-Solving/APS/blob/main/keemsebin/DynamicProgramming/BOJ_2156.js)  |
+| DynamicProgramming | [백준 10844 : 쉬운 계단 수](https://www.acmicpc.net/problem/10844) |
+| DynamicProgramming | [백준 1890 : 점프](https://www.acmicpc.net/problem/1890)           | [🚀](https://github.com/APS-Alogrithm-Problem-Solving/APS/blob/main/keemsebin/DynamicProgramming/BOJ_1890.js)  |
+| DynamicProgramming | [백준 1520 : 내리막길](https://www.acmicpc.net/problem/1520)       | [🚀](https://github.com/APS-Alogrithm-Problem-Solving/APS/blob/main/keemsebin/DynamicProgramming/BOJ_1520.js)  |
+| DynamicProgramming | [백준 15486 : 퇴사 2](https://www.acmicpc.net/problem/15486)       | [🚀](https://github.com/APS-Alogrithm-Problem-Solving/APS/blob/main/keemsebin/DynamicProgramming/BOJ_15486.js) |
+| DynamicProgramming | [백준 1106 : 호텔](https://www.acmicpc.net/problem/1106)           | [🚀](https://github.com/APS-Alogrithm-Problem-Solving/APS/blob/main/keemsebin/DynamicProgramming/BOJ_1106.js)  |
+| DynamicProgramming | [백준 2294 : 동전 2](https://www.acmicpc.net/problem/2294)         |
+
+#### Week 05 - 분할 정복 (24.04.29)
+
+| 유형               | 제목                                                              | 풀이 |
+| ------------------ | ----------------------------------------------------------------- | :--: |
+| Divide and Conquer | [백준 2630 : 색종이 만들기](https://www.acmicpc.net/problem/2630) |
+| Divide and Conquer | [백준 17829 : 222-폴링](https://www.acmicpc.net/problem/17829)    |
+| Divide and Conquer | [백준 1992 : 쿼드트리](https://www.acmicpc.net/problem/1992)      |
+| Divide and Conquer | [백준 1074 : Z](https://www.acmicpc.net/problem/1074)             |
+| Divide and Conquer | [백준 1802 : 종이 접기](https://www.acmicpc.net/problem/1802)     |
+| Divide and Conquer | [백준 2447 : 별 찍기 - 10](https://www.acmicpc.net/problem/2447)  |
+| Divide and Conquer | [백준 5904 : Moo 게임](https://www.acmicpc.net/problem/5904)      |
+| Divide and Conquer | [백준 2448 : 별 찍기 - 11](https://www.acmicpc.net/problem/2448)  |
+
+#### Week 07 - 그리디 (24.05.13)
+
+| 유형   | 제목                                                                | 풀이 |
+| ------ | ------------------------------------------------------------------- | :--: |
+| Greedy | [백준 13305 : 주유소](https://www.acmicpc.net/problem/13305)        |
+| Greedy | [백준 1541 : 잃어버린 괄호](https://www.acmicpc.net/problem/1541)   |
+| Greedy | [백준 20115 : 에너지 드링크](https://www.acmicpc.net/problem/20115) |
+| Greedy | [백준 16953 : A → B](https://www.acmicpc.net/problem/16953)         |
+| Greedy | [백준 13164 : 행복 유치원](https://www.acmicpc.net/problem/13164)   |      |
+| Greedy | [백준 21758 : 꿀따기](https://www.acmicpc.net/problem/21758)        |
+| Greedy | [백준 2109 : 순회강연](https://www.acmicpc.net/problem/2109)        |
+| Greedy | [백준 8980 : 택배](https://www.acmicpc.net/problem/8980)            |
