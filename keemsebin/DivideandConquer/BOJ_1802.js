@@ -10,10 +10,10 @@ for (let i = 0; i < T; i++) {
 }
 
 function fold(start, end, currentArr) {
-  if (start >= end) return true;
+  if (start == end) return true;
   let mid = Math.floor((start + end) / 2);
   for (let i = start; i < mid; i++) {
-    if (currentArr[i] !== currentArr[end - (i - start)]) return false;
+    if (currentArr[i] === currentArr[end - i]) return false;
   }
   return fold(start, mid - 1, currentArr) && fold(mid + 1, end, currentArr);
 }
