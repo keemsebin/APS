@@ -1,3 +1,31 @@
+#### Week 07 - Two Pointer (24.05.20)
+
+| 유형          | 제목                                                                    | 풀이 |
+| ------------- | ----------------------------------------------------------------------- | :--: |
+| Two Pointer | [백준 2003 : 수들의 합 2](https://www.acmicpc.net/problem/2003)         |
+| Two Pointer | [백준 2531 : 회전 초밥](https://www.acmicpc.net/problem/2531)        |
+| Two Pointer | [백준 20922 : 겹치는 건 싫어](https://www.acmicpc.net/problem/20922)           |
+| Two Pointer | [백준 2230 : 수 고르기](https://www.acmicpc.net/problem/2230)           |
+| Two Pointer | [백준 1806 : 부분합](https://www.acmicpc.net/problem/1806) |
+| Two Pointer | [백준 1644 : 소수의 연속합](https://www.acmicpc.net/problem/1644)       |
+| Two Pointer | [백준 20366 : 같이 눈사람 만들래?](https://www.acmicpc.net/problem/20366)           |
+| Two Pointer | [백준 22862 : 가장 긴 짝수 연속한 부분 수열 (large)](https://www.acmicpc.net/problem/22862)         |
+
+
+#### Week 06 - 그리디 (24.05.13)
+
+| 유형   | 제목                                                                | 풀이 |
+| ------ | ------------------------------------------------------------------- | :--: |
+| Greedy | [백준 13305 : 주유소](https://www.acmicpc.net/problem/13305)        |
+| Greedy | [백준 1541 : 잃어버린 괄호](https://www.acmicpc.net/problem/1541)   |
+| Greedy | [백준 20115 : 에너지 드링크](https://www.acmicpc.net/problem/20115) |
+| Greedy | [백준 16953 : A → B](https://www.acmicpc.net/problem/16953)         |
+| Greedy | [백준 13164 : 행복 유치원](https://www.acmicpc.net/problem/13164)   |      |
+| Greedy | [백준 21758 : 꿀따기](https://www.acmicpc.net/problem/21758)        |
+| Greedy | [백준 2109 : 순회강연](https://www.acmicpc.net/problem/2109)        |
+| Greedy | [백준 8980 : 택배](https://www.acmicpc.net/problem/8980)            |
+
+
 #### Week 05 - 분할 정복 (24.04.29)
 
 | 유형               | 제목                                                              | 풀이 |
