@@ -5,6 +5,10 @@
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/kongtaehyeon/BFS_DFS" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/kongtaehyeon/DataStructure" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/kongtaehyeon/.idea" />
+      <excludeFolder url="file://$MODULE_DIR$/kongtaehyeon/DataStructure/.idea" />
+      <excludeFolder url="file://$MODULE_DIR$/kongtaehyeon/DataStructure/out" />
+      <excludeFolder url="file://$MODULE_DIR$/kongtaehyeon/out" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

@@ -1,3 +1,29 @@
+#### Week 07 - 그리디 (24.05.13)
+
+| 유형   | 제목                                                                | 풀이 |
+| ------ | ------------------------------------------------------------------- | :--: |
+| Greedy | [백준 13305 : 주유소](https://www.acmicpc.net/problem/13305)        |
+| Greedy | [백준 1541 : 잃어버린 괄호](https://www.acmicpc.net/problem/1541)   |
+| Greedy | [백준 20115 : 에너지 드링크](https://www.acmicpc.net/problem/20115) |
+| Greedy | [백준 16953 : A → B](https://www.acmicpc.net/problem/16953)         |
+| Greedy | [백준 13164 : 행복 유치원](https://www.acmicpc.net/problem/13164)   |      |
+| Greedy | [백준 21758 : 꿀따기](https://www.acmicpc.net/problem/21758)        |
+| Greedy | [백준 2109 : 순회강연](https://www.acmicpc.net/problem/2109)        |
+| Greedy | [백준 8980 : 택배](https://www.acmicpc.net/problem/8980)            |
+
+#### Week 05 - 분할 정복 (24.04.29)
+
+| 유형               | 제목                                                              | 풀이 |
+| ------------------ | ----------------------------------------------------------------- | :--: |
+| Divide and Conquer | [백준 2630 : 색종이 만들기](https://www.acmicpc.net/problem/2630) |
+| Divide and Conquer | [백준 17829 : 222-폴링](https://www.acmicpc.net/problem/17829)    |
+| Divide and Conquer | [백준 1992 : 쿼드트리](https://www.acmicpc.net/problem/1992)      |
+| Divide and Conquer | [백준 1074 : Z](https://www.acmicpc.net/problem/1074)             |
+| Divide and Conquer | [백준 1802 : 종이 접기](https://www.acmicpc.net/problem/1802)     |
+| Divide and Conquer | [백준 2447 : 별 찍기 - 10](https://www.acmicpc.net/problem/2447)  |
+| Divide and Conquer | [백준 5904 : Moo 게임](https://www.acmicpc.net/problem/5904)      |
+| Divide and Conquer | [백준 2448 : 별 찍기 - 11](https://www.acmicpc.net/problem/2448)  |
+
 #### Week 04 - 다이나믹 프로그래밍 (24.04.22)
 
 | 유형               | 제목                                                               | 풀이 |
@@ -11,7 +37,7 @@
 | DynamicProgramming | [백준 1106 : 호텔](https://www.acmicpc.net/problem/1106)           |
 | DynamicProgramming | [백준 2294 : 동전 2](https://www.acmicpc.net/problem/2294)         |
 
-#### Week 03 - 해싱 (24.04.15)
+#### Week 03 - 구현 (24.04.15)
 
 | 유형           | 제목                                                                                | 풀이 |
 | -------------- | ----------------------------------------------------------------------------------- | :--: |
