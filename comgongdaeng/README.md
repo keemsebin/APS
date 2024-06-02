@@ -11,6 +11,7 @@
 | Prefix Sum | [백준 21757 : 나누기](https://www.acmicpc.net/problem/21757) |
 | Prefix Sum | [백준 20543 : 폭탄 던지는 태영이](https://www.acmicpc.net/problem/20543) |
 
+
 #### Week 07 - Two Pointer (24.05.20)
 
 | 유형          | 제목                                                                    | 풀이 |
