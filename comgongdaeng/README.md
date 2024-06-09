@@ -1,3 +1,17 @@
+#### Week 09 - 문자열 (24.06.03)
+
+| 유형       | 제목                                                                         | 풀이 |
+| ---------- | ---------------------------------------------------------------------------- | :--: |
+| Simulation | [백준 20436 : ZOAC 3](https://www.acmicpc.net/problem/20436)                 |
+| Simulation | [백준 5212 : 지구 온난화](https://www.acmicpc.net/problem/5212)              |
+| Simulation | [백준 1713 : 후보 추천하기](https://www.acmicpc.net/problem/1713)            |
+| Simulation | [백준 14891 : 톱니바퀴](https://www.acmicpc.net/problem/14891)               |
+| Simulation | [백준 16234 : 인구이동](https://www.acmicpc.net/problem/16234)               |
+| Simulation | [백준 21610 : 마법사 상어와 비바라기](https://www.acmicpc.net/problem/21610) |
+| Simulation | [백준 17144 : 미세먼지 안녕!](https://www.acmicpc.net/problem/17144)         |
+| Simulation | [백준 15685 : 드래곤 커브](https://www.acmicpc.net/problem/15685)            |
+
+
 #### Week 08 - 누적합 (24.05.27)
 
 | 유형          | 제목                                                                    | 풀이 |
