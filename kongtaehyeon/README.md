@@ -62,3 +62,18 @@
 | Divide and Conquer | [백준 2447 : 별 찍기 - 10](https://www.acmicpc.net/problem/2447)  |
 | Divide and Conquer | [백준 5904 : Moo 게임](https://www.acmicpc.net/problem/5904)      |
 | Divide and Conquer | [백준 2448 : 별 찍기 - 11](https://www.acmicpc.net/problem/2448)  |
+
+
+#### Week 11 - 문자열 (24.06.11)
+
+| 유형   | 제목                                                                 | 풀이 |
+| ------ | -------------------------------------------------------------------- | :--: |
+| String | [백준 1764 : 듣보잡](https://www.acmicpc.net/problem/1764)           |
+| String | [백준 20291 : 파일정리](https://www.acmicpc.net/problem/20291)       |
+| String | [백준 3613 : Java vs C++](https://www.acmicpc.net/problem/3613)      |
+| String | [백준 19583 : 싸이버개강총회](https://www.acmicpc.net/problem/19583) |
+| String | [백준 3107 : IPv6](https://www.acmicpc.net/problem/3107)             |
+| String | [백준 17609 : 회문](https://www.acmicpc.net/problem/17609)           |
+| String | [백준 20432 : 문자열 게임2](https://www.acmicpc.net/problem/20432)   |
+| String | [백준 20210 : 파일탐색기](https://www.acmicpc.net/problem/20210)     |
+
