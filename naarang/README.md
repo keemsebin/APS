@@ -1,3 +1,42 @@
+#### Week 10 - 시뮬레이션 (24.06.03)
+
+| 유형       | 제목                                                                         | 풀이 |
+| ---------- | ---------------------------------------------------------------------------- | :--: |
+| Simulation | [백준 20436 : ZOAC 3](https://www.acmicpc.net/problem/20436)                 |
+| Simulation | [백준 5212 : 지구 온난화](https://www.acmicpc.net/problem/5212)              |
+| Simulation | [백준 1713 : 후보 추천하기](https://www.acmicpc.net/problem/1713)            |
+| Simulation | [백준 14891 : 톱니바퀴](https://www.acmicpc.net/problem/14891)               |
+| Simulation | [백준 16234 : 인구이동](https://www.acmicpc.net/problem/16234)               |
+| Simulation | [백준 21610 : 마법사 상어와 비바라기](https://www.acmicpc.net/problem/21610) |
+| Simulation | [백준 17144 : 미세먼지 안녕!](https://www.acmicpc.net/problem/17144)         |
+| Simulation | [백준 15685 : 드래곤 커브](https://www.acmicpc.net/problem/15685)            |
+
+#### Week 09 - 누적합 (24.05.27)
+
+| 유형       | 제목                                                                                                                | 풀이 |
+| ---------- | ------------------------------------------------------------------------------------------------------------------- | :--: |
+| Prefix Sum | [백준 14929 : 귀찮아 (SIB)](https://www.acmicpc.net/problem/14929)                                                  |
+| Prefix Sum | [백준 2167 : 2차원 배열의 합](https://www.acmicpc.net/problem/2167)                                                 |
+| Prefix Sum | [백준 20438 : 출석체크](https://www.acmicpc.net/problem/20438)                                                      |
+| Prefix Sum | [백준 21318 : 피아노 체조](https://www.acmicpc.net/problem/21318)                                                   |
+| Prefix Sum | [백준 1749 : 점수따먹기](https://www.acmicpc.net/problem/1749)                                                      |
+| Prefix Sum | [백준 20440 : 🎵니가 싫어 싫어 너무 싫어 싫어 오지 마 내게 찝쩍대지마🎵 - 1](https://www.acmicpc.net/problem/20440) |
+| Prefix Sum | [백준 21757 : 나누기](https://www.acmicpc.net/problem/21757)                                                        |
+| Prefix Sum | [백준 20543 : 폭탄 던지는 태영이](https://www.acmicpc.net/problem/20543)                                            |
+
+#### Week 08 - Two Pointer (24.05.20)
+
+| 유형        | 제목                                                                                        | 풀이 |
+| ----------- | ------------------------------------------------------------------------------------------- | :--: |
+| Two Pointer | [백준 2003 : 수들의 합 2](https://www.acmicpc.net/problem/2003)                             |
+| Two Pointer | [백준 2531 : 회전 초밥](https://www.acmicpc.net/problem/2531)                               |
+| Two Pointer | [백준 20922 : 겹치는 건 싫어](https://www.acmicpc.net/problem/20922)                        |
+| Two Pointer | [백준 2230 : 수 고르기](https://www.acmicpc.net/problem/2230)                               |
+| Two Pointer | [백준 1806 : 부분합](https://www.acmicpc.net/problem/1806)                                  |
+| Two Pointer | [백준 1644 : 소수의 연속합](https://www.acmicpc.net/problem/1644)                           |
+| Two Pointer | [백준 20366 : 같이 눈사람 만들래?](https://www.acmicpc.net/problem/20366)                   |
+| Two Pointer | [백준 22862 : 가장 긴 짝수 연속한 부분 수열 (large)](https://www.acmicpc.net/problem/22862) |
+
 #### Week 07 - 그리디 (24.05.13)
 
 | 유형   | 제목                                                                | 풀이 |
