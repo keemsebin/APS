@@ -1,3 +1,17 @@
+#### Week 12 - 완전 탐색 (24.06.11)
+
+| 유형   | 제목                                                                 | 풀이 |
+| ------ | -------------------------------------------------------------------- | :--: |
+| BruteForce | [백준 2503 : 숫자 야구](https://www.acmicpc.net/problem/2503)           |
+| BruteForce | [백준 17626 : Four Squares](https://www.acmicpc.net/problem/17626)       |
+| BruteForce | [백준 10971 : 외판원 순회 2](https://www.acmicpc.net/problem/10971)      |
+| BruteForce | [백준 15661 : 링크와 스타트](https://www.acmicpc.net/problem/15661) |
+| BruteForce | [백준 12919 : A와 B 2](https://www.acmicpc.net/problem/12919)             |
+| BruteForce | [백준 15686 : 치킨배달](https://www.acmicpc.net/problem/15686)           |
+| BruteForce | [백준 14500 : 테트로미노](https://www.acmicpc.net/problem/14500)   |
+| BruteForce | [백준 16637 : 괄호 추가하기](https://www.acmicpc.net/problem/16637)     |
+
+
 #### Week 11 - 문자열 (24.06.11)
 
 | 유형   | 제목                                                                 | 풀이 |
@@ -22,8 +36,8 @@
 | Simulation | [백준 14891 : 톱니바퀴](https://www.acmicpc.net/problem/14891)               | [🚀](https://github.com/APS-Alogrithm-Problem-Solving/APS/blob/main/keemsebin/Simulation/BOJ_14891.js)  |
 | Simulation | [백준 16234 : 인구이동](https://www.acmicpc.net/problem/16234)               | [🚀](https://github.com/APS-Alogrithm-Problem-Solving/APS/blob/main/keemsebin/Simulation/BOJ_16234.js)  |
 | Simulation | [백준 21610 : 마법사 상어와 비바라기](https://www.acmicpc.net/problem/21610) |
-| Simulation | [백준 17144 : 미세먼지 안녕!](https://github.com/APS-Alogrithm-Problem-Solving/APS/blob/main/keemsebin/Simulation/BOJ_17144.js)  |
-| Simulation | [백준 15685 : 드래곤 커브](https://github.com/APS-Alogrithm-Problem-Solving/APS/blob/main/keemsebin/Simulation/BOJ_15685.js)  |
+| Simulation | [백준 17144 : 미세먼지 안녕!](https://www.acmicpc.net/problem/17144)     | [🚀](https://github.com/APS-Alogrithm-Problem-Solving/APS/blob/main/keemsebin/Simulation/BOJ_17144.js)  |
+| Simulation | [백준 15685 : 드래곤 커브](https://www.acmicpc.net/problem/15685)    | [🚀](https://github.com/APS-Alogrithm-Problem-Solving/APS/blob/main/keemsebin/Simulation/BOJ_15685.js)  |
 
 #### Week 09 - 누적합 (24.05.27)
 | 유형   | 제목                                                                 | 풀이 |
