@@ -1,4 +1,4 @@
-#### Week 12 - 완전 탐색 (24.06.11)
+#### Week 12 - 완전 탐색 (24.06.17)
 
 | 유형   | 제목                                                                 | 풀이 |
 | ------ | -------------------------------------------------------------------- | :--: |
@@ -12,18 +12,18 @@
 | BruteForce | [백준 16637 : 괄호 추가하기](https://www.acmicpc.net/problem/16637)     |
 
 
-#### Week 11 - 문자열 (24.06.11)
+#### Week 11 - 문자열 (24.06.10)
 
 | 유형   | 제목                                                                 | 풀이 |
 | ------ | -------------------------------------------------------------------- | :--: |
-| String | [백준 1764 : 듣보잡](https://www.acmicpc.net/problem/1764)           |
+| String | [백준 1764 : 듣보잡](https://www.acmicpc.net/problem/1764)           | [🚀](https://github.com/APS-Alogrithm-Problem-Solving/APS/blob/main/keemsebin/String/BOJ_1764.js)  |
 | String | [백준 20291 : 파일정리](https://www.acmicpc.net/problem/20291)       |
-| String | [백준 3613 : Java vs C++](https://www.acmicpc.net/problem/3613)      |
-| String | [백준 19583 : 싸이버개강총회](https://www.acmicpc.net/problem/19583) |
-| String | [백준 3107 : IPv6](https://www.acmicpc.net/problem/3107)             |
-| String | [백준 17609 : 회문](https://www.acmicpc.net/problem/17609)           |
-| String | [백준 20432 : 문자열 게임2](https://www.acmicpc.net/problem/20432)   |
-| String | [백준 20210 : 파일탐색기](https://www.acmicpc.net/problem/20210)     |
+| String | [백준 3613 : Java vs C++](https://www.acmicpc.net/problem/3613)      | [🚀](https://github.com/APS-Alogrithm-Problem-Solving/APS/blob/main/keemsebin/String/BOJ_3613.js)  |
+| String | [백준 19583 : 싸이버개강총회](https://www.acmicpc.net/problem/19583) | [🚀](https://github.com/APS-Alogrithm-Problem-Solving/APS/blob/main/keemsebin/String/BOJ_19583.js)  |
+| String | [백준 3107 : IPv6](https://www.acmicpc.net/problem/3107)             | [🚀](https://github.com/APS-Alogrithm-Problem-Solving/APS/blob/main/keemsebin/String/BOJ_3107.js)  |
+| String | [백준 17609 : 회문](https://www.acmicpc.net/problem/17609)           | [🚀](https://github.com/APS-Alogrithm-Problem-Solving/APS/blob/main/keemsebin/String/BOJ_17609.js)  |
+| String | [백준 20432 : 문자열 게임2](https://www.acmicpc.net/problem/20432)   | [🚀](https://github.com/APS-Alogrithm-Problem-Solving/APS/blob/main/keemsebin/String/BOJ_20432.js)  |
+| String | [백준 20210 : 파일탐색기](https://www.acmicpc.net/problem/20210)     | [🚀](https://github.com/APS-Alogrithm-Problem-Solving/APS/blob/main/keemsebin/String/BOJ_20210.js)  |
 
 
 #### Week 10 - 시뮬레이션 (24.06.03)
