@@ -1,3 +1,16 @@
+#### Week 12 - 완전 탐색 (24.06.11)
+
+| 유형       | 제목                                                                | 풀이 |
+| ---------- | ------------------------------------------------------------------- | :--: |
+| BruteForce | [백준 2503 : 숫자 야구](https://www.acmicpc.net/problem/2503)       |
+| BruteForce | [백준 17626 : Four Squares](https://www.acmicpc.net/problem/17626)  |
+| BruteForce | [백준 10971 : 외판원 순회 2](https://www.acmicpc.net/problem/10971) |
+| BruteForce | [백준 15661 : 링크와 스타트](https://www.acmicpc.net/problem/15661) |
+| BruteForce | [백준 12919 : A와 B 2](https://www.acmicpc.net/problem/12919)       |
+| BruteForce | [백준 15686 : 치킨배달](https://www.acmicpc.net/problem/15686)      |
+| BruteForce | [백준 14500 : 테트로미노](https://www.acmicpc.net/problem/14500)    |
+| BruteForce | [백준 16637 : 괄호 추가하기](https://www.acmicpc.net/problem/16637) |
+
 #### Week 11 - 문자열 (24.06.11)
 
 | 유형   | 제목                                                                 | 풀이 |
