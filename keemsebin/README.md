@@ -1,15 +1,28 @@
+#### Week 14 - Minimum Spanning Tree (24.06.24)
+
+| 유형          | 제목                                                                    | 풀이 |
+| ------------- | ----------------------------------------------------------------------- | :--: |
+| MST | [백준 1197 : 최소 스패닝 트리](https://www.acmicpc.net/problem/1197)         |
+| MST | [백준 1647 : 도시 분할 계획](https://www.acmicpc.net/problem/1647)        |
+| MST | [백준 9372 : 상근이의 여행](https://www.acmicpc.net/problem/9372)           |
+| MST | [백준 4386 : 별자리 만들기](https://www.acmicpc.net/problem/4386)           |
+| MST | [백준 6497 : 전력난](https://www.acmicpc.net/problem/6497) |
+| MST | [백준 1922 : 네트워크 연결](https://www.acmicpc.net/problem/1644)       |
+| MST | [백준 5014 : 스타트링크](https://www.acmicpc.net/problem/5014)           |
+| MST | [백준 18352 : 특정 거리의 도시 찾기](https://www.acmicpc.net/problem/18352)       |
+
 #### Week 12 - 완전 탐색 (24.06.17)
 
 | 유형   | 제목                                                                 | 풀이 |
 | ------ | -------------------------------------------------------------------- | :--: |
-| BruteForce | [백준 2503 : 숫자 야구](https://www.acmicpc.net/problem/2503)           |
-| BruteForce | [백준 17626 : Four Squares](https://www.acmicpc.net/problem/17626)       |
-| BruteForce | [백준 10971 : 외판원 순회 2](https://www.acmicpc.net/problem/10971)      |
+| BruteForce | [백준 2503 : 숫자 야구](https://www.acmicpc.net/problem/2503)           | [🚀](https://github.com/APS-Alogrithm-Problem-Solving/APS/blob/main/keemsebin/BruteForce/BOJ_2503.js)  |
+| BruteForce | [백준 17626 : Four Squares](https://www.acmicpc.net/problem/17626)       | [🚀](https://github.com/APS-Alogrithm-Problem-Solving/APS/blob/main/keemsebin/BruteForce/BOJ_17626.js)  |
+| BruteForce | [백준 10971 : 외판원 순회 2](https://www.acmicpc.net/problem/10971)      | [🚀](https://github.com/APS-Alogrithm-Problem-Solving/APS/blob/main/keemsebin/BruteForce/BOJ_10971.js)  |
 | BruteForce | [백준 15661 : 링크와 스타트](https://www.acmicpc.net/problem/15661) |
-| BruteForce | [백준 12919 : A와 B 2](https://www.acmicpc.net/problem/12919)             |
-| BruteForce | [백준 15686 : 치킨배달](https://www.acmicpc.net/problem/15686)           |
+| BruteForce | [백준 12919 : A와 B 2](https://www.acmicpc.net/problem/12919)             | [🚀](https://github.com/APS-Alogrithm-Problem-Solving/APS/blob/main/keemsebin/BruteForce/BOJ_12919.js)  |
+| BruteForce | [백준 15686 : 치킨배달](https://www.acmicpc.net/problem/15686)           | [🚀](https://github.com/APS-Alogrithm-Problem-Solving/APS/blob/main/keemsebin/BruteForce/BOJ_15686.js)  |
 | BruteForce | [백준 14500 : 테트로미노](https://www.acmicpc.net/problem/14500)   |
-| BruteForce | [백준 16637 : 괄호 추가하기](https://www.acmicpc.net/problem/16637)     |
+| BruteForce | [백준 16637 : 괄호 추가하기](https://www.acmicpc.net/problem/16637)     | [🚀](https://github.com/APS-Alogrithm-Problem-Solving/APS/blob/main/keemsebin/BruteForce/BOJ_16637.js)  |
 
 
 #### Week 11 - 문자열 (24.06.10)
